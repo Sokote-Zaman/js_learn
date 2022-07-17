@@ -82,3 +82,4 @@ let showBio = function (){
     console.log('Age = 38');
 }
 showBio(); 
+showBio(); 
