@@ -81,5 +81,8 @@ let showBio = function (){
     console.log('Last name = Alavi nasab');
     console.log('Age = 38');
 }
-showBio(); 
-showBio(); 
+showBio();  
+showBio();  
+showBio();  
+showBio();  
+showBio();  
