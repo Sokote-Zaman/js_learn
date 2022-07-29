@@ -85,8 +85,5 @@ showBio();
 
 
 
-let myName =function(){
-    console.log('Mahdi')
-}
-myName();
+
 
